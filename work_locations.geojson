@@ -180,7 +180,8 @@
         "work_type": "light",
         "description": "Pick up trash along edge of woods",
         "priority": "low",
-        "stroke-width": 3
+        "stroke-width": 3,
+        "stroke":"ccccff"
       },
       "geometry": {
         "type": "LineString",
@@ -263,7 +264,8 @@
         "work_type": "medium",
         "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
         "priority": "low",
-        "stroke-width": 3
+        "stroke-width": 3,
+        "stroke":"ccccff"
       },
       "geometry": {
         "type": "LineString",
