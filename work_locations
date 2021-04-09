@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hole zero pole",
+        "work_type": "heavy",
+        "description": "Dig hole for a target pole and future basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.77493560314178,
+          45.04474845729747
+        ]
+      }
+    }
+  ]
+}
