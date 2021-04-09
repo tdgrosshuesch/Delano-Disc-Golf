@@ -181,7 +181,7 @@
         "description": "Pick up trash along edge of woods",
         "priority": "low",
         "stroke-width": 3,
-        "stroke":"ccccff"
+        "stroke":"#ccccff"
       },
       "geometry": {
         "type": "LineString",
@@ -265,7 +265,7 @@
         "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
         "priority": "low",
         "stroke-width": 3,
-        "stroke":"ccccff"
+        "stroke":"#ccccff"
       },
       "geometry": {
         "type": "LineString",
