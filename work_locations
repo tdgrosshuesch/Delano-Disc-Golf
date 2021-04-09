@@ -151,6 +151,99 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "old 4 trash",
+        "work_type": "light",
+        "description": "Pick up trash along edge of woods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77338260412216,
+            45.04455894434969
+          ],
+          [
+            -93.77333164215086,
+            45.045224132030825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 trash",
+        "work_type": "light",
+        "description": "Pick up trash along edge of woods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77233922481537,
+            45.045826774021066
+          ],
+          [
+            -93.77234995365143,
+            45.04630054471314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1B pole",
+        "work_type": "medium",
+        "description": "Replace existing pole with a metal pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.77428114414215,
+          45.044424389775635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Replace existing pole with a metal pole",
+        "name": "1A pole",
+        "work_type": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.77470761537552,
+          45.04368907186512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 path",
+        "work_type": "medium",
+        "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77254039049149,
+            45.04518054447088
+          ],
+          [
+            -93.7723821401596,
+            45.04498345248081
+          ]
+        ]
+      }
     }
   ]
 }
