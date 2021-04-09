@@ -26,4 +26,4 @@
   * Structure TBD by participants
 ## Work map
 
-<script src="https://embed.github.com/view/geojson/tdgrosshuesch/Delano-Disc-Golf/master/"></script>
+<script src="https://embed.github.com/view/geojson/tdgrosshuesch/Delano-Disc-Golf/main/work_locations.geojson"></script>
