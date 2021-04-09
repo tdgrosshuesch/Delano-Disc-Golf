@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "hole zero pole",
+        "name": "0 pole",
         "work_type": "heavy",
         "description": "Dig hole for a target pole and future basket"
       },
@@ -13,6 +13,142 @@
         "coordinates": [
           -93.77493560314178,
           45.04474845729747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9A pole",
+        "work_type": "heavy",
+        "description": "Dig hole for a target pole and future basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.77472370862961,
+          45.04648815682262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9A trimming",
+        "work_type": "medium",
+        "description": "Trim low branches with pole saw"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77581804990768,
+            45.04649952723373
+          ],
+          [
+            -93.77561151981354,
+            45.046565854586774
+          ],
+          [
+            -93.77537816762924,
+            45.04660754602647
+          ],
+          [
+            -93.77526015043259,
+            45.04661702134944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1B path",
+        "work_type": "medium",
+        "description": "Rake path, clear debris, line with fallen tree limbs"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77475321292877,
+            45.04360568470126
+          ],
+          [
+            -93.77447292208672,
+            45.043616108103386
+          ],
+          [
+            -93.7742891907692,
+            45.043672015409676
+          ],
+          [
+            -93.77418458461761,
+            45.043686229122905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4A path",
+        "work_type": "medium",
+        "description": "Rake path, clear debris, line with fallen tree limbs"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77215951681137,
+            45.04419507773005
+          ],
+          [
+            -93.77218633890152,
+            45.04404915140428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4B fairway",
+        "work_type": "light",
+        "description": "Pick up sticks, put them in a pile"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77185642719269,
+            45.04397334537387
+          ],
+          [
+            -93.77203613519669,
+            45.04454567841982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1A fairway",
+        "work_type": "light",
+        "description": "Pick up sticks, put them in piles at the west edge of the tree line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.77471566200256,
+            45.044384591883244
+          ],
+          [
+            -93.77471834421158,
+            45.043725079921025
+          ]
         ]
       }
     }
