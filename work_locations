@@ -6,7 +6,8 @@
       "properties": {
         "name": "0 pole",
         "work_type": "heavy",
-        "description": "Dig hole for a target pole and future basket"
+        "description": "Dig hole for a target pole and future basket",
+        "priority": "high"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "name": "9A pole",
         "work_type": "heavy",
-        "description": "Dig hole for a target pole and future basket"
+        "description": "Dig hole for a target pole and future basket",
+        "priority": "high"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "name": "9A trimming",
         "work_type": "medium",
-        "description": "Trim low branches with pole saw"
+        "description": "Trim low branches with pole saw",
+        "priority": "high"
       },
       "geometry": {
         "type": "LineString",
@@ -65,7 +68,8 @@
       "properties": {
         "name": "1B path",
         "work_type": "medium",
-        "description": "Rake path, clear debris, line with fallen tree limbs"
+        "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
+        "priority": "high"
       },
       "geometry": {
         "type": "LineString",
@@ -94,7 +98,8 @@
       "properties": {
         "name": "4A path",
         "work_type": "medium",
-        "description": "Rake path, clear debris, line with fallen tree limbs"
+        "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
+        "priority": "high"
       },
       "geometry": {
         "type": "LineString",
@@ -115,7 +120,8 @@
       "properties": {
         "name": "4B fairway",
         "work_type": "light",
-        "description": "Pick up sticks, put them in a pile"
+        "description": "Pick up sticks, put them in a pile",
+        "priority": "medium"
       },
       "geometry": {
         "type": "LineString",
@@ -136,7 +142,8 @@
       "properties": {
         "name": "1A fairway",
         "work_type": "light",
-        "description": "Pick up sticks, put them in piles at the west edge of the tree line"
+        "description": "Pick up sticks, put them in piles at the west edge of the tree line",
+        "priority": "medium"
       },
       "geometry": {
         "type": "LineString",
@@ -157,7 +164,8 @@
       "properties": {
         "name": "old 4 trash",
         "work_type": "light",
-        "description": "Pick up trash along edge of woods"
+        "description": "Pick up trash along edge of woods",
+        "priority": "low"
       },
       "geometry": {
         "type": "LineString",
@@ -178,7 +186,8 @@
       "properties": {
         "name": "5 trash",
         "work_type": "light",
-        "description": "Pick up trash along edge of woods"
+        "description": "Pick up trash along edge of woods",
+        "priority": "high"
       },
       "geometry": {
         "type": "LineString",
@@ -199,7 +208,8 @@
       "properties": {
         "name": "1B pole",
         "work_type": "medium",
-        "description": "Replace existing pole with a metal pole"
+        "description": "Replace existing pole with a metal pole",
+        "priority": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +224,8 @@
       "properties": {
         "description": "Replace existing pole with a metal pole",
         "name": "1A pole",
-        "work_type": "medium"
+        "work_type": "medium",
+        "priority": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +240,8 @@
       "properties": {
         "name": "5 path",
         "work_type": "medium",
-        "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary"
+        "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
+        "priority": "low"
       },
       "geometry": {
         "type": "LineString",
