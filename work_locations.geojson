@@ -7,7 +7,8 @@
         "name": "0 pole",
         "work_type": "heavy",
         "description": "Dig hole for a target pole and future basket",
-        "priority": "high"
+        "priority": "high",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +122,8 @@
         "name": "4B fairway",
         "work_type": "light",
         "description": "Pick up sticks, put them in a pile",
-        "priority": "medium"
+        "priority": "medium",
+		"marker-color": "#33cc33"
       },
       "geometry": {
         "type": "LineString",
@@ -143,7 +145,8 @@
         "name": "1A fairway",
         "work_type": "light",
         "description": "Pick up sticks, put them in piles at the west edge of the tree line",
-        "priority": "medium"
+        "priority": "medium",
+		"marker-color": "#33cc33"
       },
       "geometry": {
         "type": "LineString",
@@ -209,7 +212,8 @@
         "name": "1B pole",
         "work_type": "medium",
         "description": "Replace existing pole with a metal pole",
-        "priority": "medium"
+        "priority": "medium",
+		"marker-color": "#33cc33"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +229,8 @@
         "description": "Replace existing pole with a metal pole",
         "name": "1A pole",
         "work_type": "medium",
-        "priority": "medium"
+        "priority": "medium",
+		"marker-color": "#33cc33"
       },
       "geometry": {
         "type": "Point",
