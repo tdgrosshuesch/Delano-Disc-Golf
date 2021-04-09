@@ -1,6 +1,6 @@
 # Monday April 12th, 5-7:30pm - First ever Delano Disc Golf volunteer night & league planning
 # Meet near basket 7 / tee 8. Arriving late is fine. Park in the gravel lot behind the hockey rink
-# Don't forget your discs.
+# Don't forget your discs. Bring a mask for when we're all in a group.
 
 ## We're close to having 18 holes and could use some help getting things finished. Bring some work gloves. Additional equipment to bring if you have it:
 
