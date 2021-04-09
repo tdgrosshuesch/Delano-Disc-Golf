@@ -1,5 +1,5 @@
-# Monday April 12th: First ever Delano Disc Golf volunteer night & league planning
-# Meet near basket 7 / tee 8 at 5:00, park in the gravel lot behind the hockey rink
+# Monday April 12th, 5-7:30pm - First ever Delano Disc Golf volunteer night & league planning
+# Meet near basket 7 / tee 8. Arriving late is fine. Park in the gravel lot behind the hockey rink
 
 ## We're close to having 18 holes and could use some help getting things finished. Bring some work gloves. Additional equipment to bring if you have it:
 
