@@ -8,7 +8,8 @@
         "work_type": "heavy",
         "description": "Dig hole for a target pole and future basket",
         "priority": "high",
-        "marker-size": "small"
+        "marker-size": "small",
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +25,9 @@
         "name": "9A pole",
         "work_type": "heavy",
         "description": "Dig hole for a target pole and future basket",
-        "priority": "high"
+        "priority": "high",
+        "marker-size": "small",
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "Point",
@@ -40,7 +43,9 @@
         "name": "9A trimming",
         "work_type": "medium",
         "description": "Trim low branches with pole saw",
-        "priority": "high"
+        "priority": "high",
+        "stroke-width": 4,
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "LineString",
@@ -70,7 +75,9 @@
         "name": "1B path",
         "work_type": "medium",
         "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
-        "priority": "high"
+        "priority": "high",
+        "stroke-width": 4,
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "LineString",
@@ -100,7 +107,9 @@
         "name": "4A path",
         "work_type": "medium",
         "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
-        "priority": "high"
+        "priority": "high",
+        "stroke-width": 4,
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "LineString",
@@ -123,7 +132,8 @@
         "work_type": "light",
         "description": "Pick up sticks, put them in a pile",
         "priority": "medium",
-		"marker-color": "#33cc33"
+		"marker-color": "#33cc33",
+        "stroke-width": 4
       },
       "geometry": {
         "type": "LineString",
@@ -146,7 +156,8 @@
         "work_type": "light",
         "description": "Pick up sticks, put them in piles at the west edge of the tree line",
         "priority": "medium",
-		"marker-color": "#33cc33"
+		"marker-color": "#33cc33",
+        "stroke-width": 4
       },
       "geometry": {
         "type": "LineString",
@@ -168,7 +179,8 @@
         "name": "old 4 trash",
         "work_type": "light",
         "description": "Pick up trash along edge of woods",
-        "priority": "low"
+        "priority": "low",
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
@@ -190,7 +202,9 @@
         "name": "5 trash",
         "work_type": "light",
         "description": "Pick up trash along edge of woods",
-        "priority": "high"
+        "priority": "high",
+        "stroke-width": 4,
+        "stroke": "#ff0000"
       },
       "geometry": {
         "type": "LineString",
@@ -230,7 +244,8 @@
         "name": "1A pole",
         "work_type": "medium",
         "priority": "medium",
-		"marker-color": "#33cc33"
+		"marker-color": "#33cc33",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +261,8 @@
         "name": "5 path",
         "work_type": "medium",
         "description": "Rake path, clear debris, line with fallen tree limbs, cut small trees (<4 in. diameter) if necessary",
-        "priority": "low"
+        "priority": "low",
+        "stroke-width": 3
       },
       "geometry": {
         "type": "LineString",
