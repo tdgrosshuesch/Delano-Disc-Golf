@@ -24,6 +24,7 @@
 * Women's night
   * Day of the week TBD by participants
   * Structure TBD by participants
+
 ## Work map
 * red = high priority
 * green = medium priority
