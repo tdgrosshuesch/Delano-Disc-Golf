@@ -27,7 +27,7 @@
 ## Work map
 * red = high priority
 * green = medium priority
-* gray = low priority
+* lavender = low priority
 * tap on a point or line for more info
 
 <script src="https://embed.github.com/view/geojson/tdgrosshuesch/Delano-Disc-Golf/main/work_locations.geojson"></script>
