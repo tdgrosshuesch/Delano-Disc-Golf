@@ -9,7 +9,7 @@
         "description": "Dig hole for a target pole and future basket",
         "priority": "high",
         "marker-size": "small",
-        "stroke": "#ff0000"
+        "marker-color": "#ff0000"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "description": "Dig hole for a target pole and future basket",
         "priority": "high",
         "marker-size": "small",
-        "stroke": "#ff0000"
+        "marker-color": "#ff0000"
       },
       "geometry": {
         "type": "Point",
@@ -227,7 +227,8 @@
         "work_type": "medium",
         "description": "Replace existing pole with a metal pole",
         "priority": "medium",
-		"marker-color": "#33cc33"
+		"marker-color": "#33cc33",
+        "marker-size":"small"
       },
       "geometry": {
         "type": "Point",
