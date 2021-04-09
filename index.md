@@ -11,6 +11,7 @@
 * trash grabber
 * 5 gallon bucket
 * garden rake (the kind with stiff metal tines)
+* pole saw for cutting overhead limbs
 
 ## League planning ideas
 
